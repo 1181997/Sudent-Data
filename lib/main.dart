@@ -1,7 +1,5 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:studentlist/add_student.dart';
-import 'package:studentlist/first.dart';
 import 'package:studentlist/student_list.dart';
 
 import 'firebase_options.dart';
